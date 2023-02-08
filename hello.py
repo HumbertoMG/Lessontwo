@@ -1,1 +1,1 @@
-"Hola mundo! Soy Humberto Mendoza"
+print("Hola mundo! Soy Humberto Mendoza")
